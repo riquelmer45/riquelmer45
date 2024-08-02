@@ -1,8 +1,7 @@
 ## Olá, Me chamo Anderson Riquelmer Modesto
 
 
-- 🌱 Estudando Javascript e react.js
-- 😄 Pronomes: Ele/Dele
+- 🌱 Estudando Javascript, typescript, tailwind CSS e react.js
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Rique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
