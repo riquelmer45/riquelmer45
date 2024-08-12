@@ -1,7 +1,8 @@
-## Olá, Me chamo Anderson Riquelmer Modesto
+## Hi, Im Anderson Riquelmer Modesto
 
 
-- 🌱 Estudando Javascript, typescript, tailwind CSS e react.js
+- 🌱 Developer with React and Node.
+- 📚 I'm currently learning Typescript and Tailwind css
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Rique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
