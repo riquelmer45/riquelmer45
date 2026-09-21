@@ -1,8 +1,7 @@
 ## Hi, Im Riquelmer Modesto
 
 
-- 🌱 Developer with React and Node.
-- 📚 I'm currently learning Typescript and Tailwind css
+- 🌱 Developer with React, Next js, Typescript and Node
 
 # 💫 About Me:
 👋 Olá! Eu sou o Anderson Riquelmer Modesto<br>💻 Desenvolvedor FullStack<br>🚀 Apaixonado por tecnologia, programação, jogos e aprendizado contínuo.
